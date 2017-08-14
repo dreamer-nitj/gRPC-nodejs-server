@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/dreamer-nitj/gRPC-nodejs-server#readme",
   "dependencies": {
+    "fibers": "^2.0.0",
     "grpc": "^1.4.1"
+  },
+  "devDependencies": {
+    "grpcli": "^0.7.5"
   }
 }
